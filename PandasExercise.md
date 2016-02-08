@@ -2,6 +2,8 @@
 
 #### Open up:
 
+##### Jupyter files on c drive:
+C:\Users\Hugo\Documents\BTS - MDSD\Big Data\data\DF-Data_twitter_vine
 ##### Questions:  
 https://www.dropbox.com/sh/eag6i4t7zllbv9w/AABs6i0suHqZBgcqBSwjUXv-a/DF-Data_twitter_vine/data_analysis.md?dl=0
 ##### Jupyter file (after launching Jupyter Notebook: 
